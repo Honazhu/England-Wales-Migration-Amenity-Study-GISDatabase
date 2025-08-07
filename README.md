@@ -26,13 +26,11 @@ This repository contains processed GIS datasets of various amenities in England 
 **Note:** Modern amenities originally derived from shapefiles have been processed to ensure continuous spatial features from previously disconnected points.
 
 ---
+## 📚 How to Cite
 
-## How to Cite
+If you use this dataset in your research, please cite the following preprint:
 
-Temporary citation format (until manuscript publication of my paper on amenities and net migration):
-
-> [Hona Zhu] (2025). England and Wales Amenity GIS Database (Version 2023). GitHub repository. URL: [https://github.com/Honazhu/England-Wales-Amenity-GIS-Database].
-*Citation format will be updated upon manuscript acceptance for my academic publication.*
+> Zhu, Hona (2025). *Railway, Amenities, and Internal Migration: A Spatial Econometric Analysis in England and Wales*. SSRN. [https://doi.org/10.2139/ssrn.5354053](https://doi.org/10.2139/ssrn.5354053)
 
 ---
 
